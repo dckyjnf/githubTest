@@ -1,6 +1,9 @@
 1.Javascript
   - front end developer
+  -vue.js
 2.html
 3.php framework
+  - Laravel
 4. interview
 5.fundamental data structures
+6.Python

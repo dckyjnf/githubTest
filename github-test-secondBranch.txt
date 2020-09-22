@@ -1,6 +1,7 @@
 1.Javascript
   - front end developer
   -vue.js
+  -react
 2.html
 3.php framework
   - Laravel
